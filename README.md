@@ -9,8 +9,6 @@
 - 在线预览（GitHub Pages，启用后生效）：`https://moon584.github.io/404-Page/`
 - 或者在本地直接打开 `404.html` / `index.html`
 
-请将你提供的预览图保存为仓库根目录的 `screenshot.png`，README 中将自动显示：
-
 ![预览图](./screenshot.png)
 
 界面要点（基于预览图）：
